@@ -1,5 +1,4 @@
 广东频道,#genre#
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=278bbb74b913655465c0308bee86fa92&txTime=190965e0140
 央视频道,#genre#
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 卫视频道,#genre#
