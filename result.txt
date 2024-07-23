@@ -1,11 +1,11 @@
 广东频道,#genre#
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=278bbb74b913655465c0308bee86fa92&txTime=190965e0140
 央视频道,#genre#
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://222.240.82.92:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
-黑龙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=64cde00fa51eb520daec6aa6c1e3e90225906560d67b2607381a34d4431ebcc6_1720508553_604800&fromCDN=ws
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
 甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
