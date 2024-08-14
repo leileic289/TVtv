@@ -10,8 +10,8 @@ CCTV-16,http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
 北京卫视,http://222.240.82.92:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
-甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8
+甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
 贵州卫视,http://202.100.46.58:9901/tsfile/live/1034_1.m3u8
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 河南卫视,http://124.94.193.136:9902/tsfile/live/0139_1.m3u8
