@@ -1,6 +1,7 @@
 广东频道,#genre#
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东卫视,http://124.94.193.136:9902/tsfile/live/0125_1.m3u8
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=057c43946c61f665a7cbbfef9f228555&txTime=1913a1cfc6d
 央视频道,#genre#
 CCTV-6,http://202.100.46.58:9901/tsfile/live/1005_1.m3u8
 卫视频道,#genre#
