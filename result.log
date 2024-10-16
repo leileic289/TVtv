@@ -1,8 +1,8 @@
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 108ms
-Name: 广东体育, URL: http://218.13.170.98:9901/tsfile/live/0019_1.m3u8, Date: None, Resolution: None, Response Time: 469ms
-Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV-6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 503ms
-Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 503ms
-Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 492ms
-Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 511ms
-Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 491ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 133ms
+Name: 广东体育, URL: http://218.13.170.98:9901/tsfile/live/0019_1.m3u8, Date: None, Resolution: None, Response Time: 2670ms
+Name: CCTV-6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 2118ms
+Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 537ms
+Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 539ms
+Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 527ms
+Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 540ms
+Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 523ms
