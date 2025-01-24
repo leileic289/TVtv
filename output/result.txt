@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-24 18:35:48,url
+2025-01-25 06:33:16,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
@@ -736,7 +736,7 @@ CETV4,http://123.56.129.203:3293/rtp/225.1.8.195:4120$北京电信组播源
 凤凰中文,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.59:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=liKUscxeA3mntTkvcrPdLC0JYhRJ8GbjSgBJJtzDsTUq%2FpkEzcEgSA5jxU7E691yoTzNtIBFrb%2BIDS0e%2Fx7VbeVgZAe%2Fh9LVb30YjuWosxNwd%2FGCIxz9Y34Vf7X4oRpDbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090449%2C-1%2C112.25.63.228%2C20241025090449%2CHD-10000k-1080P-fhchinese5s%2C1734243741512_23%3A8F%3AF4%3AAE%3A73%3AC6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268459_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhchinese5s%2FHD-10000k-1080P-fhchinese5s&icpid=88888888&from=5&popid=5&hms_devid=6885&prioritypopid=5$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源|3840x2160
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源|1920x1080
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
@@ -748,7 +748,7 @@ CETV4,http://123.56.129.203:3293/rtp/225.1.8.195:4120$北京电信组播源
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源|3840x2160
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源|1920x1080
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源|1920x1080
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
@@ -906,9 +906,10 @@ CCTV-5+,http://122.9.151.210:887/rtp/238.255.2.185:5999$组播源
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8$订阅源
 山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002$组播源
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002$组播源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+天津体育,http://ha.xushining.com:50000/udp/225.1.1.122:5002$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8$订阅源
 睛彩篮球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-miguaoyun1$订阅源
 风云足球,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.229:80/PLTV/4/224/3221228668/1.m3u8?accountinfo=7Nbs4SAtmisdhfg9u9VfuRylKFo%2FsFe211XeT0tFiPe3sKM6ExysDo0g3A9CbIkx5b%2FFw3kQIXPRRrkOn3II%2B%2Fc0Ta4f4DIFOsGdGiU4JeF8fi9dPYnTHN8Os8jC4LZfFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026024257%2C-1%2C36.156.32.22%2C20241026024257%2CG_FENGSHANGZQ-CQ%2C1734208109853_10%3A13%3A6D%3AA1%3A26%3A38%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000019436166_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_FENGSHANGZQ-CQ%2FG_FENGSHANGZQ-CQ&icpid=88888888&from=5&popid=5&hms_devid=6449&prioritypopid=5$订阅源
@@ -962,11 +963,10 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8$订阅源
 金鹰卡通,http://139.129.231.228:3529/rtp/239.21.1.48:5002$组播源
 金鹰卡通,http://139.129.231.228:50060/rtp/239.21.1.48:5002$组播源
-睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8$订阅源|IPv6
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源|1920x1080
 炫动卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8$订阅源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
-浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://120.55.49.231:2693/rtp/233.50.201.138:5140$组播源
 浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$组播源
 浙江少儿,http://120.55.49.231:7320/rtp/233.50.201.138:5140$组播源
@@ -1092,7 +1092,6 @@ CHC高清电影,url
 深圳体育,url
 福建体育,url
 成都体育,url
-天津体育,url
 江苏体育,url
 吉林篮球,url
 睛彩羽毛球,url
@@ -1101,6 +1100,7 @@ CHC高清电影,url
 爱动漫,url
 中录动漫,url
 CN卡通,url
+睛彩少儿,url
 24H国漫热播,url
 斗破苍穹玄幻剧,url
 经典动漫,url
